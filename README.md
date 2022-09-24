@@ -24,7 +24,12 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+A NestJS backend for video streaming app.
+
+## Endpoints
+
+- #Login
+- /api/v1/user/signin - POST 
 
 ## Installation
 
